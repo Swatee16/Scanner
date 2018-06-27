@@ -17,17 +17,16 @@ Pod::Spec.new do |s|
 
   s.name         = "EresScanner"
   s.version      = "0.0.1"
-  s.summary      = "A short description of EresScanner."
+  s.summary      = "EresScanner is Support for Scaning OCR library."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = <<-DESC
-                   DESC
+  s.description  = "In Development.."
 
-  s.homepage     = "http://EXAMPLE/EresScanner"
+  s.homepage     = "http://www.eres.ae/"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -39,7 +38,7 @@ Pod::Spec.new do |s|
   #
 
   s.license      = "MIT (example)"
-  # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = { :type => "MIT", :file => "LICENSE" }
 
 
   # ――― Author Metadata  ――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
